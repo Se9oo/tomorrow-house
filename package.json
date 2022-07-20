@@ -1,0 +1,24 @@
+{
+  "name": "tomorrow-house",
+  "version": "1.0.0",
+  "description": "tomorrow-house",
+  "main": "index.js",
+  "scripts": {
+    "node-sass": "node-sass",
+    "sass": "node-sass -w styles/main.scss ./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Se9oo/tomorrow-house.git"
+  },
+  "keywords": [],
+  "author": "park se hyun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Se9oo/tomorrow-house/issues"
+  },
+  "homepage": "https://github.com/Se9oo/tomorrow-house#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
